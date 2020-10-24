@@ -1,5 +1,5 @@
 /*
-braincracker: R. de Graaf
+braincracker: R.
 finishing date: 21:20 8-8-2020  HH:mm dd-mm-yyyy
 
 */
